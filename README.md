@@ -39,7 +39,7 @@ API
 * You can use 3rd party modules, but keep it ReactJS.
 
 
-* When finished, send `amit@qualicode.co` an email and tell him us what you’ve accomplished.
+* When finished, send `amit@qualicode.co` an email and tell him what you’ve accomplished.
 
 * Use clean and easy to read code, structural and maintainable.
 
