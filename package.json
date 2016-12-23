@@ -1,7 +1,7 @@
 {
-  "name": "discount-ascii-warehouse",
+  "name": "asciiz",
   "private": true,
-  "version": "0.2.0",
+  "version": "0.1.0",
   "description": "For all your ascii needs.",
   "main": "index.js",
   "scripts": {
